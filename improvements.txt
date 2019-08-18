@@ -1,0 +1,8 @@
+1. mark C-PASS for SAME FAILURES reports - DONE
+2. metrics with pass/fail/cpass - DONE
+3. stop reopening broser (stop button and enable button)
+4. indi to open directory
+5. Pic seq names from sheet rather than triage folder - DONE
+
+============
+1. In C-PASS, some results mis-matched between prev and current build results. - DONE
